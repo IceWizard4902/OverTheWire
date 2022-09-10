@@ -1,6 +1,12 @@
 <p align="center" width="100%">
-    <img src="https://i.imgur.com/TM2Myls.png">
+    <img width=50% src="https://i.imgur.com/TM2Myls.png">
 </p>
+
+<div align="center">
+  <h1>Bandit</h1>
+</div>
+
+The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.
 
 # Bandit 0 
 
