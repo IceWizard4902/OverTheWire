@@ -1,3 +1,7 @@
+<p align="center" width="100%">
+    <img src="https://i.imgur.com/TM2Myls.png">
+</p>
+
 # Bandit 0 
 
 A few problem with connecting to a legacy ssh server, but can be rectify by using
