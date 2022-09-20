@@ -6,7 +6,7 @@
   <h1>Bandit</h1>
 </div>
 
-The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.
+The [Bandit](https://overthewire.org/wargames/bandit/) wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.
 
 - [Bandit 0](#bandit-0)
 - [Bandit 0](#bandit-0-1)
