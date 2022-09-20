@@ -32,8 +32,8 @@ The [Bandit](https://overthewire.org/wargames/bandit/) wargame is aimed at absol
 - [Bandit 20](#bandit-20)
 - [Bandit 21](#bandit-21)
 - [Bandit 22](#bandit-22)
-- [Bandit 23:](#bandit-23)
-- [Bandit 24:](#bandit-24)
+- [Bandit 23](#bandit-23)
+- [Bandit 24](#bandit-24)
 - [Bandit 25](#bandit-25)
 - [Bandit 26](#bandit-26)
 - [Bandit 27](#bandit-27)
@@ -271,7 +271,7 @@ This gives the result of `mytarget`, and the file we are looking for is at `/tmp
 
 bandit23: `QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G`
 
-# Bandit 23:
+# Bandit 23
 
 Same procedure as Bandit 21 and 22, we try to get the content of the script in the cronjob.
 What the script in the cronjob does is obvious, it tries to execute all the scripts in the `/var/spool/bandit24/foo` folder. We will create a temporary folder to store the result of the script by doing `mkdir /tmp/kdkdkd`
@@ -289,7 +289,7 @@ After a minute, doing `cat pass` will provide the password for the next level.
 
 bandit24: `VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar`
 
-# Bandit 24:
+# Bandit 24
 Some interesting things to remember:
 
 `seq -f "%0${PADDING}g" $MIN $MAX` gives a sequence of 4-digit strings with the given padding (4) from `MIN` to `MAX`
